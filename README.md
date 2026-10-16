@@ -1,16 +1,6 @@
-<table border="0">
-  <tr>
-    <!-- Coluna 1: O seu GIF -->
-    <td>
-      <img src="XInim-ezgif-resize.gif" alt="Xinim" width="150">
-    </td>
-    <!-- Coluna 2: O seu texto -->
-    <td valign="middle">
-      <h2>Olá 👋</h2>
-      <p>Escreva aqui a descrição do seu perfil, suas tecnologias favoritas ou o que você quiser colocar ao lado da sua animação.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./XInim-ezgif-resize.gif" alt="Pixelart" width="500">
+</p>
 <!--
 **SerErichi/SerErichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
