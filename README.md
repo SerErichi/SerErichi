@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./XInim-ezgif-resize.gif" alt="Pixelart" width="500">
+  <img src="./XInim-ezgif.com-resize.gif" alt="Pixelart" width="500">
 </p>
 <!--
 **SerErichi/SerErichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
