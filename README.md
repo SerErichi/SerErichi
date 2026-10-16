@@ -1,4 +1,7 @@
 ## Olá ≽^•⩊•^≼
+<p align="center">
+  <img src="XInim.gif" alt="Imagens Alternando" width="250" style="image-rendering: pixelated;">
+</p>
 
 <!--
 **SerErichi/SerErichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
