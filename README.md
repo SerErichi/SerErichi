@@ -1,6 +1,6 @@
 ## Olá ≽^•⩊•^≼
 <p align="center">
-  <img src="XInim.gif" alt="Imagens Alternando" width="250" style="image-rendering: crisp-edges;">
+  <img src="XInim-ezgif.com-effects.gif" alt="Xinim" style="image-rendering: crisp-edges;">
 </p>
 
 <!--
